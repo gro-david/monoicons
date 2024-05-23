@@ -1,0 +1,13 @@
+[package]
+name = "monoicons"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+indicatif = "0.17.8"
+rayon = "1.5.3"
+walkdir = "2.3.2"
+regex = "1.5.5"
+css-color = "0.2.8"
+
+
