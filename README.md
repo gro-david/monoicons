@@ -13,3 +13,6 @@ There is currently no plan to either maintain or develop this project. There wil
 - [ ] Add support for Windows and MacOS
 - [ ] Add support for tinting the icons
 - [ ] Add support for adaptive icon coloring for the KDE accent color.
+
+## Crediting
+If you decide to publish any icon pack you created with this tool, please do not forget to credit both the original creator and me.
