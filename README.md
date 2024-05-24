@@ -7,7 +7,7 @@ This small one day project is designed to convert your icons to a monochrome ver
 3. Run the script with `./monoicons <path to your icons folder>` (you may list any number of folders)
 
 ## Disclaimer
-There is currently no plan to either maintain or develop this project. There will problably no Windows or MacOS support. Feel free to fork the project and develop it further, or implement any of the ideas listed below. 
+There is currently no plan to either maintain or develop this project. There will probably no Windows or MacOS support. Feel free to fork the project and develop it further, or implement any of the ideas listed below. 
 
 ## Ideas
 - [ ] Add support for Windows and MacOS
